@@ -7,6 +7,6 @@ best possible segmentation on OCT scan. Our deep learning system was trained and
 data from two OCT devices (Handheld OCT and Table mounted OCT device), resulting in a device-
 agnostic system.
 
-'''
+```
 qsub main.sh
-'''
+```
